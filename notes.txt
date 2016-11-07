@@ -1,0 +1,19 @@
+#Ezeiza 2601
+home = (-34.574535,-58.509125)
+#peron 552, equidistante de las estaciones de la b d  e y a 
+work = (-34.605602,-58.374452)
+#tiempo 58 minutos 175 y linea b
+#el recorrido en bondi es 12 min
+
+#de casa a subte es en Franklin D. Roosevelt 5110
+#2.3 km 
+#en brooklyn de Fort Greene Flea, 176 Lafayette Avenue, Brooklyn, NY 11238 a United Artists Court Street 12 & RPX, 106 Court Street, Brooklyn, NY 11201
+#son 2.3 y 10 min
+
+
+#la estacion de subte Franklin D. Roosevelt 5110
+subway = (-34.573908, -58.487691)
+
+
+
+de la estacion me dio 30 min, desde la casa me dio 56min
