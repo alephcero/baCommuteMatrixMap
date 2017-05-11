@@ -1,7 +1,7 @@
 # baCommuteMatrixMap
 A matrix map with the commute times for every census block for Buenos Aires City using Google API. Black zones are those where a transfer is mandatory.
 
-![BA Commute](img.png)
+![BA Commute](imgen.png)
 
 [Click here](https://alephcero.github.io/baCommuteMatrixMap/) for the interactive version
 
